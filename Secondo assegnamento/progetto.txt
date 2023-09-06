@@ -1,0 +1,378 @@
+Gruppo formato da:
+Nicola Boscolo Cegion mat:1195705
+Filippo Bianco mat:1187400
+Luca Paulon mat:1187028
+
+Per compilare il programma eseguire il segunte comando aprendo la shell dalla cartella:
+
+g++ *.cpp -o ex -std=c++17 -O2
+
+
+Output:
+
+------------------------------
+Benvenuto in Gestione Elettrodomestici!
+------------------------------
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Inizio a processare l'ordine:
+Ordine numero:1
+Elettodomestico: eletr1
+Quantita' da produrre: 2
+Costo (Rivendita): 650
+Numero componenti: 3
+
+
+Inizio a processare l'ordine:
+Ordine numero:4
+Elettodomestico: eletr3
+Quantita' da produrre: 4
+Costo (Rivendita): 340
+Numero componenti: 3
+
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Inizio a processare l'ordine:
+Ordine numero:2
+Elettodomestico: eletr2
+Quantita' da produrre: 1
+Costo (Rivendita): 710
+Numero componenti: 3
+
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Inizio a processare l'ordine:
+Ordine numero:3
+Elettodomestico: eletr4
+Quantita' da produrre: 3
+Costo (Rivendita): 370
+Numero componenti: 3
+
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Sono arrivati i componenti del'ordine id: 1 nome: eletr1
+        id: 1 nome: comp1 quantita': 10
+        id: 2 nome: comp2 quantita': 20
+        id: 3 nome: comp3 quantita': 30
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+ordine id: 1 completato!!
+Abbiamo incassato: 1300
+la cassa ammonta a: 1606
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: nn
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Sono arrivati i componenti del'ordine id: 4 nome: eletr3
+        id: 7 nome: comp7 quantita': 5
+        id: 8 nome: comp8 quantita': 3
+        id: 9 nome: comp9 quantita': 8
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Sono arrivati i componenti del'ordine id: 2 nome: eletr2
+        id: 4 nome: comp4 quantita': 10
+        id: 5 nome: comp2 quantita': 15
+        id: 6 nome: comp7 quantita': 11
+
+ordine id: 4 completato!!
+Abbiamo incassato: 1360
+la cassa ammonta a: 2966
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Sono arrivati i componenti del'ordine id: 3 nome: eletr4
+        id: 10 nome: comp10 quantita': 5
+        id: 1 nome: comp1 quantita': 6
+        id: 7 nome: comp7 quantita': 10
+
+ordine id: 2 completato!!
+Abbiamo incassato: 710
+la cassa ammonta a: 3676
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+ordine id: 3 completato!!
+Abbiamo incassato: 1110
+la cassa ammonta a: 4786
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+Finito di processare tutti gli ordini.
+Il saldo finale e': 4786
+nicola@WHITE-RIPPER:/mnt/c/Users/nicol/Google Drive/Secondo assegnameto/Progetto finito$ n
+nn: comando non trovato
+nicola@WHITE-RIPPER:/mnt/c/Users/nicol/Google Drive/Secondo assegnameto/Progetto finito$ g++ *.cpp -o ex -std=c++17 -O2
+nicola@WHITE-RIPPER:/mnt/c/Users/nicol/Google Drive/Secondo assegnameto/Progetto finito$ ./ex
+------------------------------
+Benvenuto in Gestione Elettrodomestici!
+------------------------------
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Inizio a processare l'ordine:
+Ordine numero:1
+Elettodomestico: eletr1
+Quantita' da produrre: 2
+Costo (Rivendita): 800
+Numero componenti: 3
+
+
+Inizio a processare l'ordine:
+Ordine numero:4
+Elettodomestico: eletr3
+Quantita' da produrre: 4
+Costo (Rivendita): 440
+Numero componenti: 3
+
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Inizio a processare l'ordine:
+Ordine numero:2
+Elettodomestico: eletr2
+Quantita' da produrre: 1
+Costo (Rivendita): 910
+Numero componenti: 3
+
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Inizio a processare l'ordine:
+Ordine numero:3
+Elettodomestico: eletr4
+Quantita' da produrre: 3
+Costo (Rivendita): 570
+Numero componenti: 3
+
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Sono arrivati i componenti del'ordine id: 1 nome: eletr1
+        id: 1 nome: comp1 quantita': 10
+        id: 2 nome: comp2 quantita': 20
+        id: 3 nome: comp3 quantita': 30
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+ordine id: 1 completato!!
+Abbiamo incassato: 1600
+la cassa ammonta a: 1906
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Sono arrivati i componenti del'ordine id: 4 nome: eletr3
+        id: 7 nome: comp7 quantita': 5
+        id: 8 nome: comp8 quantita': 3
+        id: 9 nome: comp9 quantita': 8
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Sono arrivati i componenti del'ordine id: 2 nome: eletr2
+        id: 4 nome: comp4 quantita': 10
+        id: 5 nome: comp2 quantita': 15
+        id: 6 nome: comp7 quantita': 11
+
+ordine id: 4 completato!!
+Abbiamo incassato: 1760
+la cassa ammonta a: 3666
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+Sono arrivati i componenti del'ordine id: 3 nome: eletr4
+        id: 10 nome: comp10 quantita': 5
+        id: 1 nome: comp1 quantita': 6
+        id: 7 nome: comp7 quantita': 10
+
+ordine id: 2 completato!!
+Abbiamo incassato: 910
+la cassa ammonta a: 4576
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+
+ordine id: 3 completato!!
+Abbiamo incassato: 1710
+la cassa ammonta a: 6286
+
+Come si desidera procedere? Digitare:
+        -'c' per gli ordini completi
+        -'d' per gli ordini da effettuare
+        - Un qualsiasi carattere per passare al mese successivo
+        Comando: n
+Finito di processare tutti gli ordini.
+Il saldo finale e': 6286
